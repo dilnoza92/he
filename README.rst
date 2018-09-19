@@ -18,13 +18,15 @@ hehe
      :target: https://pyup.io/repos/github/dilnoza92/he/
      :alt: Updates
      
-.. image:: https://coveralls.io/repos/github/dilnoza92/heheh/badge.svg?branch=master
-    :target: https://coveralls.io/github/dilnoza92/heheh?branch=master
+.. image:: https://coveralls.io/repos/github/dilnoza92/he/badge.svg?branch=master
+   :target: https://coveralls.io/github/dilnoza92/he?branch=master
 
 
 
 
-hehehe
+
+
+he
 
 
 * Free software: MIT license
