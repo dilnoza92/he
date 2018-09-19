@@ -21,11 +21,10 @@ def response():
     # return requests.get('https://github.com/audreyr/cookiecutter-pypackage')
 
 
-def test_adding():
+def test_content(response):
     """Sample pytest test function with the pytest fixture as an argument."""
     answer2=he.adding(2,3)
     assert answer2==5
-    assert he.answer==3
     # from bs4 import BeautifulSoup
     # assert 'GitHub' in BeautifulSoup(response.content).title.string
 
